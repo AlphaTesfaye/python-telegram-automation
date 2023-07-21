@@ -5,8 +5,8 @@ import os
 import asyncio
 
 # Set up Telegram bot
-bot = telegram.Bot(token="6399721967:AAHeDS5LuDOw8ahjs-ixmhnuBFZXwcAu47I")
-chat_id = "@CryptoMarketAlpha"
+bot = telegram.Bot(token="Bot_Token")
+chat_id = "Chat_ID"
 
 # Scraping coinmarketcap data
 url = "https://coinmarketcap.com/"
